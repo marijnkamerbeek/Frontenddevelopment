@@ -38,21 +38,36 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Dit ging goed:
+
+Het plaatsen van alle content ging vrij snel. Ik wist door de breakdownschets goed welke html elementen ik nodig had. Niet overal, maar op veel plekken wel.
+
+Dit ging niet zo goed:
+
+Ik heb watb moeite met hoe ik de header moet maken. Die heb ik nu eigenlijk helemaal nog niet. Ook het uitlijnen gaat wat moeizaam. Er zit ook bovein de website een slider, en ik heb nog geen idee hoe ik die moet maken. Mijn css staat ook nog een beetje onoverzichtelijk.
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+Tot nu toe ben ik niet super ver. Ik heb alle content op de pagina staan. Ook de meeste afbeeldingen, en knoppen. Ik moet alles nog goed plaatsen, groottes aanpassen en iconen toevoegen. De hele header mist ook nog.
+
+<img src="images/voortgang1" width="375px" alt="Deel 1 voortgang">
+<img src="images/voortgang2" width="375px" alt="Deel 2 voortgang">
+<img src="images/voortgang3" width="375px" alt="Deel 3 voortgang">
+<img src="images/voortgang4" width="375px" alt="Deel 4 voortgang">
+<img src="images/voortgang5" width="375px" alt="Deel 5 voortgang">
+<img src="images/voortgang6" width="375px" alt="Deel 6 voortgang">
+<img src="images/voortgang7" width="375px" alt="Deel 7 voortgang">
+<img src="images/voortgang8" width="375px" alt="Deel 8 voortgang">
+
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+Waar willen we het over hebben?
+Kathleen: uitlijnen
+Ruben: Responsive
+Jordi: Slider
+Marijn: uitlijnen(vooral afbeeldingen)
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
 
 ### Verslag van meeting
 
