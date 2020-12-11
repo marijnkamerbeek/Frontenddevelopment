@@ -30,8 +30,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+Dit ging goed:
+Het toevoegen van foto's en iconen.
 
+Dit ging niet zo goed:
+
+Ik heb niet veel gedaan de afgelopen weken. Ik vind het lastig, dus het kostte me veel moeite om aan het werk te gaan. Ook het toepassen van flexbox en grid gaat nog niet helemaal goed. Het uitlijnen van elementen vind ik ook nog lastig.
 
 
 ## Voortgang 1 (week 3)

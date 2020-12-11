@@ -13,7 +13,9 @@
 <!--    link naar lettertype-->
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet">
     <header>
+        <img src="images/KNKV_logo_cropped.svg" alt="" id="logotop">
         <a class="menu"></a>
+        <img src="images/headerfoto.jpg" alt="" id="headerfoto">
 
     </header>
 </head>
@@ -21,12 +23,12 @@
 <body>
     <h1>Koninklijk Nederlands Korfbalverbond</h1>
     <script src="scripts/script.js"></script>
-    <ul>
-        <li>Kennisbank</li>
-        <li>Nieuws</li>
-        <li>Agenda</li>
-        <li>Competities</li>
-    </ul>
+        <section id="navsection">
+            <a href=""><img src="images/Kennisbank.svg" class="nav">Kennisbank</a>
+            <a href=""><img src="images/Nieuws.svg" class="nav">Nieuws</a>
+            <a href=""><img src="images/Agenda.svg" class="nav">Agenda</a>
+            <a href=""><img src="images/Competitie.png" class="nav">Competities</a>
+        </section>
 
        <article class="top">
         <h3 class="update">Vierde online KNKV Magazine: inspirerende praktijkverhalen</h3>
@@ -38,17 +40,17 @@
         <p>GA NAAR</p>
         <h2>Kennisbank</h2>
             <article>
-                <img src="images/kangoeroeklup.png" alt="" class="korfbalfoto1">
+                <img src="images/kangoeroeklub.jpg" alt="" class="korfbalfoto1">
                 <h3>Kangoeroe Klup</h3>
                     <p>Gepubliceerd op 24 september 2020</p>
                     <p>De kangoeroe Klup is een bewegingsvorm met een knipoog naar het korfbal voor kinderen van drie tot en met zes jaar. Scoro, Jumper, Funny en Spurt vormen de basis.</p>
                     <button>Lees meer</button>
             </article>
             <article>
-                <img src="images/technischbeleid.png" alt="" class="korfbalfoto2">
-                <h3>Technisch beleid</h3>
+                <img src="images/magazine.jpg" alt="" class="korfbalfoto2">
+                <h3>KNKV Magazine</h3>
                     <p>Gepubliceerd op 20 juli 2020</p>
-                    <p>Een technisch beleid is de basis van hoe er gekorfbald en verenigd wordt binnen een vereniging. Het bouwplan voor technisch beleid kan je helpen bij het opbouewen van jouw technische beleidsplan.</p>
+                    <p>Het KNKV Magazine is een digitale uitgave met verhalen uit de praktijk die inzichten kunnen geven en kunnen inspireren voor nieuwe acties en ideeën.</p>
                     <button>Lees meer</button>
             </article>
         </div>
@@ -56,23 +58,49 @@
     <div class="competitie">
         <p>GA NAAR</p>
         <h2>Competitie</h2>
+
+            <section class="bluebutton">
+                <img src="images/buttonfoto1.jpg" id="bluebutton1">
+                <p class="button">GA NAAR</p>
+                <h6>Competitieschema</h6>
+            </section>
+
+          <section class="bluebutton" >
+                <img src="images/buttonfoto2.jpg" id="bluebutton2">
+                <p class="button">GA NAAR</p>
+                <h6>Indelingen</h6>
+            </section>
+
+            <section class="bluebutton">
+                <img src="images/buttonfoto3.jpg" id="bluebutton3">
+                <p class="button">GA NAAR</p>
+                <h6>Ploegopgaven</h6>
+            </section>
+
+            <section class="bluebutton">
+                <img src="images/buttonfoto4.jpg" id="bluebutton4">
+                <p class="button">GA NAAR</p>
+                <h6>Spelregels</h6>
+            </section>
     </div>
+
+
 
     <div class="nieuws">
         <p>GA NAAR</p>
         <h2>Het nieuws</h2>
             <article>
-                <img src="images/nieuwewetgeving.png" alt="" class="korfbalfoto1">
-                <h3>Nieuwe wetgeving voor sportverenigingen</h3>
-                    <p>Gepubliceerd op 26 november 2020</p>
-                    <p>Op 1 juni 2021 treedt de Wet Bestuur en Toezicht Rechtspersonen in werking. Om bestuurders op weg te helpen bij alles wat ze moeten gaan regelen is er 3 december een webinar.</p>
+                <img src="images/zorgverzekering.jpg" alt="" class="korfbalfoto1">
+                <h3>Zorgverzekering bij zilveren kruis</h3>
+                    <p>Gepubliceerd op 04 december 2020</p>
+                    <p>Een goede zorgverzekering is belangrijk. Zilveren Kruis biedt speciaal voor korfballers een uitgebreide zorgverzekering met extra vergoedingen waarbij korfballers kunnen profiteren van aantrekkelijke korting en services.</p>
                     <button>Lees meer</button>
             </article>
             <article>
-                <img src="images/magazine.png" alt="" class="korfbalfoto2">
+                <img src="images/mdtsport.jpg" alt="" class="korfbalfoto2">
                 <h3>Vierde online KNKV Magazine: inspirerende praktijkverhalen</h3>
-                    <p>Gepubliceerd op 25 november 2020</p>
-                    <p>Vandaag is het vierde online KNKV Magazine verschenen. Het magazine bevat inspirerende en informatieve artikelen uit de prakrijk. Deze verhalen kunnen ideeën geven voor acties bij je eigen vereniging.</p>
+                    <p>Gepubliceerd op 03 december 2020</p>
+                    <p>Wil je jongeren de kans bieden om zichzelf te ontwikkelen en zo investeren in de bestuurders, coördinatoren, trainers en coaches van de toekomst? Het programma MDT Sport biedt mooie kansen.</p>
                     <button>Lees meer</button>
             </article>
     </div>
@@ -81,7 +109,7 @@
     <p>GA NAAR</p>
     <h2>Activiteiten</h2>
       <article>
-            <img src="images/bondsraadsvergadering.png" alt="" class="korfbalfoto1">
+            <img src="images/korf.jpg" alt="" class="korfbalfoto1">
             <h3>Bondsraadvergadering</h3>
                 <ul>
                     <li>12 december 2020</li>
@@ -92,7 +120,7 @@
                 <button>Lees meer</button>
         </article>
         <article>
-            <img src="images/IKF.png" alt="" class="korfbalfoto2">
+            <img src="images/IKF.jpg" alt="" class="korfbalfoto2">
             <h3>IKF U19 World Korfball Championship</h3>
                 <ul>
                     <li>Van 02 april 2021 - 09:00</li>
@@ -105,7 +133,7 @@
     </div>
 
     <div class="overKNKV">
-        <img src="" alt="">
+        <img src="images/overKNKV.jpg" alt="">
         <h3>Over KNKV</h3>
             <p>Het KNKV telt zo’n negentigduizend leden bij circa vijfhonderd aangesloten verenigingen, waar maatschappelijke vaardigheden worden opgedaan en sprake is van een veilig sportklimaat. Korfbal heeft zich internationaal en als topsport ontwikkeld. De sport wordt inmiddels in 69 landen gespeeld en TeamNL Korfbal vormt de absolute wereldtop.</p>
 
@@ -114,6 +142,33 @@
             <h4>Hoofdambities</h4>
                 <p>Zoveel mogelijk mensen laten genieten van korfbal. Én: korfbal naar olympisch niveau. Dat zijn de twee hoofdambities van het KNKV.</p>
                 <button>Lees meer</button>
+
+
+    <div class="">
+           <section class="bluebutton">
+                <img src="images/buttonorganisatie.jpg" id="bluebutton1">
+                <p class="button">GA NAAR</p>
+                <h6>Organisatie</h6>
+            </section>
+
+          <section class="bluebutton">
+                <img src="images/buttonregelgeving.png"id="bluebutton2">
+                <p class="button">GA NAAR</p>
+                <h6>Regelgeving</h6>
+            </section>
+
+           <section class="bluebutton">
+                <img src="images/buttonpartners.jpg" id="bluebutton3">
+                <p class="button">GA NAAR</p>
+                <h6>Partners</h6>
+            </section>
+
+            <section class="bluebutton">
+                <img src="images/buttonsportcultuur.jpg" id="bluebutton4">
+                <p class="button">GA NAAR</p>
+                <h6>Positieve sportcultuur</h6>
+            </section>
+    </div>
 
         <div class="sponsoren">
             <img src="images/erima.png" alt="Logo Erima" class="logo">
@@ -185,7 +240,7 @@
         </ul>
 
 <section class="foot1">
-<img src="" alt="logo KNKV">
+<img src="images/KNKV_logo_cropped.svg" alt="logo KNKV" id="logofooter">
     <p>Volg KNKV</p>
 <!--   iconen social media-->
        <p>Altijd op de hoogte van het laatste nieuws?</p>
