@@ -16,6 +16,20 @@ body {
 }
 
 /*header + bovenkant website */
+
+header {
+    background-color: #040074;
+    border-top: 10px solid #FF6900;
+    width: 100%;
+    border-radius: 0px 0px 0px 30px;
+}
+
+#logotop {
+    padding: 1em;
+    border-bottom: 0.5px solid white;
+}
+
+
 h1{
     color:#040074;
     font-size:28px;
@@ -108,6 +122,32 @@ h5 {
     font-style: bold;
 }
 
+h6 {
+    color:white;
+    font-size: 25px;
+}
+
+p.button {
+/*    position: absolute;*/
+    color: white;
+
+}
+
+section.bluebutton {
+/*    position: absolute;*/
+    background: #040074;
+}
+
+a {
+    color: #040074;
+    font-size:22px;
+    display: inline-flex;
+    text-decoration: none;
+}
+
+#navsection {
+    padding: 20px;
+}
 
 /*Lijsten*/
 ul {
@@ -116,9 +156,17 @@ ul {
 
 li {
     list-style: none;
+    left:0px;
+    text-align: left;
 }
 
 /*Foto's*/
+
+img#headerfoto {
+    width:100%;
+    opacity: 0.4;
+}
+
 .korfbalfoto1 {
     width:100%;
     border-radius: 0px 40px 0px 40px;
@@ -126,13 +174,45 @@ li {
 
 .korfbalfoto2 {
     width:100%;
-    border-radius: 60px 0px 60px 0px;
+    border-radius: 60px 0px 0px 0px;
 }
+
+.nav {
+    width: 1.3em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+}
+
+#bluebutton1 {
+
+    border-radius: 60px 0px 0px 0px;
+    width: 90%;
+    opacity: 0.4;
+}
+
+#bluebutton2 {
+    width: 90%;
+    opacity: 0.4;
+
+}
+
+#bluebutton3 {
+    width: 90%;
+    opacity: 0.4;
+}
+
+#bluebutton4 {
+    width: 90%;
+    opacity: 0.4;
+    border-radius: 0px 0px 60px 0px;
+}
+
 
 /*Footer */
 .footer {
     font-size:14px;
     color:#040074;
+    width: 100%;
 }
 
 
@@ -157,4 +237,8 @@ li {
     text-align: center;
 }
 
+#logofooter {
+    width:8em;
+
+}
 
