@@ -40,10 +40,10 @@ Homepagina KNKV
 
 Artikel Kangoeroe Klub
 
-<img src="images/indresultaat13.png" width="375px" alt="Artikel pagina op de knkv website.">
-<img src="images/indresultaat14.png" width="375px" alt="Artikel pagina op de KNKV website.">
-<img src="images/indresultaat15.png" width="375px" alt="Artikel pagina op de knkv website.">
-<img src="images/indresultaat16.png" width="375px" alt="Artikel pagina op de knkv website.">
+<img src="images/eindresultaat13.png" width="375px" alt="Artikel pagina op de knkv website.">
+<img src="images/eindresultaat14.png" width="375px" alt="Artikel pagina op de KNKV website.">
+<img src="images/eindresultaat15.png" width="375px" alt="Artikel pagina op de knkv website.">
+<img src="images/eindresultaat16.png" width="375px" alt="Artikel pagina op de knkv website.">
 
 
 
