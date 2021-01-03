@@ -6,19 +6,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
-
+1. Elementen positioneren: https://www.learnit.nl/gratiscursus/html-en-css/9
 
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
-
 Dit ging goed:
 
-In de laatste paar daagjes van de vakantie heb ik veel kunnen maken, en ging het al stukken beter met het positioneren van elementen.
+In de laatste paar daagjes van de vakantie heb ik veel kunnen maken, en ging het al wat beter met het positioneren van elementen.
 
 Dit ging niet zo goed:
 
@@ -27,7 +22,28 @@ Ik ben nog niet klaar, omdat ik het te lang heb uitgesteld en het niet vlot gaat
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+Homepagina KNKV
+
+<img src="images/eindresultaat1.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat2.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat3.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat4.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat5.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat6.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat7.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat8.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat9.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat10.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat11.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat12.png" width="375px" alt="Homepagina van de knkv website.">
+
+
+Artikel Kangoeroe Klub
+
+<img src="images/indresultaat13.png" width="375px" alt="Artikel pagina op de knkv website.">
+<img src="images/indresultaat14.png" width="375px" alt="Artikel pagina op de KNKV website.">
+<img src="images/indresultaat15.png" width="375px" alt="Artikel pagina op de knkv website.">
+<img src="images/indresultaat16.png" width="375px" alt="Artikel pagina op de knkv website.">
 
 
 
@@ -111,7 +127,7 @@ Marijn: uitlijnen(vooral afbeeldingen)
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/dummy-plaatje.svg" width="375px" alt="Homepagina van de knkv website.">
 <img src="images/knkv1.png" width="375px" alt="Homepagina van de knkv website.">
 <img src="images/knkv2.png" width="375px" alt="Homepagina van de knkv website.">
 <img src="images/knkv3.png" width="375px" alt="Homepagina van de knkv website.">
@@ -123,7 +139,7 @@ Marijn: uitlijnen(vooral afbeeldingen)
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/dummy-plaatje.svg" width="375px" alt="Artikel pagina op de knkv website.">
 <img src="images/kangoeroeklub1.png" width="375px" alt="Artikel pagina op de KNKV website.">
 <img src="images/kangoeroeklub2.png" width="375px" alt="Artikel pagina op de knkv website.">
 <img src="images/kangoeroeklub3.png" width="375px" alt="Artikel pagina op de knkv website.">
