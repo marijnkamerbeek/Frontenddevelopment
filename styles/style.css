@@ -13,6 +13,9 @@ body {
     line-height: 1.5;
     text-align: left;
     background-color: white;
+    margin-left:auto;
+    margin-right:auto;
+    font-weight:400;
 }
 
 /*header + bovenkant website */
@@ -21,72 +24,185 @@ header {
     background-color: #040074;
     border-top: 10px solid #FF6900;
     width: 100%;
-    border-radius: 0px 0px 0px 30px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 20px;
+    padding-left: 20px;
+    position: relative;
 }
 
+
 #logotop {
-    padding: 1em;
-    border-bottom: 0.5px solid white;
+    padding: 1em 1em 1em 0em;
+    width: 4em;
 }
 
 
 h1{
     color:#040074;
-    font-size:28px;
+    font-size:32px;
 }
 
 .top {
     background-color: #040074;
     color:white;
-    padding: 0px 0px 20px 20px;
     width: 100%;
     border-radius: 30px 0px 0px 0px;
+    padding-right: 20px;
+    margin-left: 20px;
+    padding-top: 0;
 }
 
-.update {
-    color:white;
+p#pupdate {
+    padding-left: 20px;]
+    font-size: 14px;
+    border-bottom: 1px solid rgba(255,255,255,.4);
+    padding-bottom: .5em;
 }
 
-/*catagorieen website*/
+
+a#lsupdate {
+    color: white;
+    font-size: 12px;
+    padding-left: 20px;
+}
+
+h3.update {
+    padding-left: 20px;
+    color: white;
+}
+
+
+img#menuicoon {
+    width:1.8em;
+    position: absolute;
+    right:2em;
+    top:1.8em;
+}
+
+
+/*Pijltjes op de pagina*/
+div.pijltjes {
+    background-color: #FF6900;
+    color: white;
+    text-align: center;
+    margin-left: 20px;
+    padding: 15px 30px 15px 30px;
+    border-radius: 0px 0px 30px 0px;
+    width:130px;
+}
+
+
+img.pijlicoon {
+    width:0.8em;
+    margin-left:1.2em;
+}
+
+img.pijlicoonleft {
+    width: 1em;
+    margin-right: 2em;
+    opacity: 0.2;
+}
+
+img.pijlicoonright {
+    width: 1em;
+    margin-left: 2em;
+}
+
+
+img.pijlicoon3 {
+    width:0.8em;
+    margin-left: 0.2em;
+}
+
+
+img.wittepijl {
+    width:1.5em;
+    margin-left:13em;
+}
+
+img.kleinepijl {
+    width:.7em;
+    margin-left:.3em;
+}
+
+img#pijlterug {
+    width: .7em;
+    margin-right: .3em;
+}
+
+
+a#terug {
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*De verschillende catagorieen op de pagina*/
 .kennisbank {
     background-color: #F2F2F8;
     width:100%;
-    padding: 30px 20px 0px 20px;
+    padding:20px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 1.5em;
 }
 
 .nieuws {
     background-color: #F2F2F8;
     width:100%;
-    padding: 30px 20px 0px 20px;
+    padding:20px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 1.5em;
 }
 
 .competitie {
     width:100%;
-    padding: 30px 20px 0px 20px;
+    padding-top: 1.5em;
+    padding:20px;
+    margin-right: auto;
+    margin-left: auto;
+
 }
 
 .activiteiten {
     width:100%;
-    padding: 30px 20px 0px 20px;
+    padding:20px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 1.5em;
 }
+
 
 .overKNKV {
     background-color: #F2F2F8;
-    width:100%;
-    padding: 30px 20px 0px 20px;
+    width: 100%;
+    padding:20px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
-/*overige onderdelen content*/
-button {
+/*Overige onderdelen content*/
+a.leesmeer {
     font-family: 'Ubuntu', sans-serif;
-    font-size: 16px;
-    background-color: #040074;
+    font-size: 1em;
     color:white;
-    padding:10px 0px 10px 20px;
-    width: 100%;
+    margin-left: 20px;
+    position:relative;
+    padding: 10px;
+}
+
+div.leesmeerbutton {
+    background-color: #040074;
+    margin-left: auto;
+    margin-right: auto;
     text-align: left;
-    border-radius: 0px 25px 0px 25px;
+    border-radius: 0 1.375rem 0 1.375rem;;
     border: none;
+    width:100%;
+    display: flex;
+    align-items: center;
 }
 
 article {
@@ -94,14 +210,8 @@ article {
     padding-bottom: 20px;
 }
 
-a {
-    list-style: none;
-    text-decoration: none;
-    color:white;
-    font-size: 12px;
-}
 
-/*Titels */
+/*Titels/kopjes */
 h2 {
     color:#040074;
     font-size:20px;
@@ -113,52 +223,65 @@ h3 {
 }
 
 h4 {
-
+    font-size: 1.25rem;
 }
 
 h5 {
     font-size: 16px;
     color:#040074;
-    font-style: bold;
+    font-weight: 700;
+    font-size:18px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 h6 {
     color:white;
     font-size: 25px;
+    position: absolute;
+    width: 100%;
+    padding-left: 20px;
+    align-content: center;
 }
 
 p.button {
-/*    position: absolute;*/
     color: white;
-
+    position:absolute;
+    padding-left: 20px;
 }
 
-section.bluebutton {
-/*    position: absolute;*/
-    background: #040074;
-}
 
 a {
     color: #040074;
-    font-size:22px;
     display: inline-flex;
     text-decoration: none;
+    list-style: none;
+    text-decoration: none;
+    font-size:22px;
+}
+
+a#terug {
+    color: #040074;
+    font-size: 14px;
 }
 
 #navsection {
     padding: 20px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
-/*Lijsten*/
-ul {
-    text-decoration: none;
+#navsection a {
+    display: flex;
+    padding: .5em;
+    align-items: center;
 }
 
-li {
-    list-style: none;
-    left:0px;
-    text-align: left;
+#navsection a img {
+    padding: 0;
+    margin-right: .5em
 }
+
 
 /*Foto's*/
 
@@ -167,14 +290,22 @@ img#headerfoto {
     opacity: 0.4;
 }
 
+
+img#magazine {
+    width:100%;
+    border-radius: 30px 0px 0px 0px;
+    position: relative;
+}
+
+
 .korfbalfoto1 {
     width:100%;
-    border-radius: 0px 40px 0px 40px;
+    border-radius: 0px 60px 0px 60px;
 }
 
 .korfbalfoto2 {
     width:100%;
-    border-radius: 60px 0px 0px 0px;
+    border-radius: 60px 0px 60px 0px;
 }
 
 .nav {
@@ -183,45 +314,208 @@ img#headerfoto {
     padding-bottom: 1em;
 }
 
-#bluebutton1 {
+#foto6 {
+    width: 100%;
+    border-radius: 0px 60px 0px 60px;
+}
 
+div#oranjevlak {
+    background-color: #FF6900;
+    height: 150px;
+/*    position: absolute;*/
+    border-radius: 0 100px 40px 0;
+    left:0;
+    margin-top:40px;
+
+}
+
+/*Blauwe knoppen*/
+
+section#organisatie {
+    background-color:#040074;
+    width: 100%;
     border-radius: 60px 0px 0px 0px;
-    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+}
+
+section#regelgeving {
+    background-color:#040074;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+section#partners {
+    background-color:#040074;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+section#positievesportcultuur {
+    background-color:#040074;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 0px 0px 60px 0px;
+    margin-bottom: 20px;
+}
+
+section#competitieschema {
+    background-color:#040074;
+    width: 100%;
+    border-radius: 60px 0px 0px 0px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+}
+
+section#indelingen {
+    background-color:#040074;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+section#ploegopgaven {
+    background-color:#040074;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+section#spelregels {
+    background-color:#040074;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 0px 0px 60px 0px;
+    margin-bottom: 20px;
+}
+
+
+
+
+section.bluebuttons1 {
+    width:100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+section.bluebuttons2 {
+    background-color: #F2F2F8;
+    width:100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+}
+
+
+img#bluebutton1 {
+    border-radius: 60px 0px 0px 0px;
+    width: 100%;
     opacity: 0.4;
 }
 
-#bluebutton2 {
-    width: 90%;
-    opacity: 0.4;
-
-}
-
-#bluebutton3 {
-    width: 90%;
+img#bluebutton2 {
+    width:100%;
     opacity: 0.4;
 }
 
-#bluebutton4 {
-    width: 90%;
+img#bluebutton3 {
+    width:100%;
+        opacity: 0.4;
+}
+
+img#bluebutton4 {
+    width:100%;
     opacity: 0.4;
     border-radius: 0px 0px 60px 0px;
 }
 
+/*Lijsten*/
 
-/*Footer */
-.footer {
-    font-size:14px;
-    color:#040074;
-    width: 100%;
+li {
+    list-style: none;
+    background-color:
+}
+
+li.greybutton {
+    background-color: #F2F2F8;
+    margin: 0px 7px 10px 0px;
+    display: inline-block;
+    padding: 0.4em 0.8em;
+    border:1px solid lightgrey;
 }
 
 
-.sponsoren {
-    padding: 60px 0px 60px 0px;
+/*Footer*/
+
+li.footer {
+
+    list-style: none;
+    left:0px;
+    text-align: left;
+}
+
+
+ul {
+    font-size:16px;
+    color:#040074;
+    width: 100%;
+    padding-right:0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    text-decoration: none;
+}
+
+ul.footer1 {
+    display:grid;
+    grid-template-columns: 50% 50%;
+
+}
+
+section.sponsoren {
+    width: 100%;
+    padding: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #F2F2F8;
+
+}
+
+section#footernav {
+    background-color: #F2F2F8;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+section#bekijk {
+    width: 100%;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    border-top: 1px solid lightgrey;
 }
 
 .logo {
     width:5em;
+    padding: 20px;
+
 }
 
 .foot1 {
@@ -229,12 +523,27 @@ img#headerfoto {
     color:white;
     padding: 40px 0px 40px 0px;
     text-align: center;
+    width:100%;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .foot2 {
     background-color: #FF6900;
     color:white;
     text-align: center;
+    padding: 5px 20px 5px 20px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+
+p#copyright {
+    color: #040074;
+    font-size: 12px;
+
 }
 
 #logofooter {
@@ -242,3 +551,49 @@ img#headerfoto {
 
 }
 
+a#footerlink {
+    color: white;
+    font-size: 16px;
+}
+
+
+/*extra opmaak tweede pagina*/
+
+article#kangoeroeklub {
+    width: 100%;
+    padding:20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a.link {
+    color: #040074;
+    font-size:16px;
+}
+
+h1#titelpagina2 {
+    font-size:26px;
+
+}
+
+img.kangoeroe {
+    display: block;
+}
+
+section.gerelateerd {
+    padding: 20px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h7 {
+    font-size: 16px;
+    margin-bottom: 20px;
+    font-weight:800;
+}
+
+a.leesmeer2 {
+    font-size: 16px;
+    font-weight:1000;
+}

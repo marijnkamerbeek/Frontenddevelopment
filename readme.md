@@ -16,6 +16,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -dit ging goed & dit was lastig-
 
+Dit ging goed:
+
+In de laatste paar daagjes van de vakantie heb ik veel kunnen maken, en ging het al stukken beter met het positioneren van elementen.
+
+Dit ging niet zo goed:
+
+Ik ben nog niet klaar, omdat ik het te lang heb uitgesteld en het niet vlot gaat. Nu is het bijna af voor mobiel, maar het werkt ook nog niet responsive. OOk moet er nog een stukje javascript in verwerkt worden. Ik denk dat als ik alle pixels verander naar em's, dat ik het dan reddelijks snel responsive moet kunnen maken.
+
+
 **Screenshot(s):**
 
 -screenshot(s) van je eindresultaat-
@@ -24,8 +33,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+Dit ging goed:
 
+Ik heb best wel wat vooruitgang gemaakt sinds de vorige voortgang. Ik had namelijk daarvoor erg weinig gedaan.
+
+Dit ging niet zo goed:
+
+Ik heb nog steeds niet veel gemaakt na de vorige feedback. Ik merk dat ik vaak nijg om px te gebruiken ipv em. Dat zou ik later nog moeten aanpassen. Ook lukt het me na de feedback van sam nog niet met de blauwe overlay. Ik heb gedaan wat er in de mail stond, alleen lukt het niet helemaal.
 
 
 ## Voortgang 2 (week 5)
@@ -48,7 +62,7 @@ Het plaatsen van alle content ging vrij snel. Ik wist door de breakdownschets go
 
 Dit ging niet zo goed:
 
-Ik heb watb moeite met hoe ik de header moet maken. Die heb ik nu eigenlijk helemaal nog niet. Ook het uitlijnen gaat wat moeizaam. Er zit ook bovein de website een slider, en ik heb nog geen idee hoe ik die moet maken. Mijn css staat ook nog een beetje onoverzichtelijk.
+Ik heb wat moeite met hoe ik de header moet maken. Die heb ik nu eigenlijk helemaal nog niet. Ook het uitlijnen gaat wat moeizaam. Er zit ook bovein de website een slider, en ik heb nog geen idee hoe ik die moet maken. Mijn css staat ook nog een beetje onoverzichtelijk.
 
 **Screenshot(s):**
 
@@ -110,6 +124,6 @@ Marijn: uitlijnen(vooral afbeeldingen)
 **Screenshot(s) van de tweede pagina (small screen):**
 
 <img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
-<img src="images/knkv8.png" width="375px" alt="Agenda pagina op de knkv website.">
-<img src="images/knkv9.png" width="375px" alt="Agenda pagina op de knkv website.">
-<img src="images/knkv10.png" width="375px" alt="Agenda pagina op de knkv website.">
+<img src="images/kangoeroeklub1.png" width="375px" alt="Artikel pagina op de KNKV website.">
+<img src="images/kangoeroeklub2.png" width="375px" alt="Artikel pagina op de knkv website.">
+<img src="images/kangoeroeklub3.png" width="375px" alt="Artikel pagina op de knkv website.">
