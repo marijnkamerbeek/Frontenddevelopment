@@ -6,13 +6,13 @@
 **1. Elementen positioneren**
 https://www.learnit.nl/gratiscursus/html-en-css/9
 
-**2. Grid**
+**2. Grid:**
 https://css-tricks.com/snippets/css/complete-guide-grid/
 
-**3. Javascript**
+**3. Javascrip:t**
 https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/
 
-**4. Javascript menu**
+**4. Javascript menu:**
 https://www.youtube.com/watch?v=H4MkGzoACpQ&feature=youtu.be
 
 
@@ -30,7 +30,7 @@ Ondanks het feit dat ik opnieuw ben begonnen, ging het toch vlot. Het html docum
 
 **Dit ging niet zo goed:**
 
-Ook merk ik dat de website die ik heb gekozen erg lastig is, vooral omdat ik zelf het erg lastig vind. Denk dat het daarom ook niet zo vlot ging. Het ging sneller dan eerst, maar ik had nog steeds moeite met wat onderdelen. Ik heb het daarom voor mezelf wat makkelijker gemaakt door sommige onderdelen weg te laten. Ik vond het lastig om te bepalen wanneer ik wel of niet een section of div moest toevoegen. Op de website zitten erg veel verschillende soorten onderdelen, die allemaal adnere opmaak nodig hebben. Uiteindelijk heb ik dus nog best veel gebruik gemaakt van sections, id's en sections. Al heb ik het geprobeerd zo weinig mogelijk te doen.
+Ook merk ik dat de website die ik heb gekozen erg lastig is, vooral omdat ik zelf het erg lastig vind. Denk dat het daarom ook niet zo vlot ging. Het ging sneller dan eerst, maar ik had nog steeds moeite met wat onderdelen. Ik heb het daarom voor mezelf wat makkelijker gemaakt door sommige onderdelen weg te laten. Ik vond het lastig om te bepalen wanneer ik wel of niet een section of div moest toevoegen. Op de website zitten erg veel verschillende soorten onderdelen, die allemaal andere opmaak nodig hebben.
 
 **Screenshot(s):**
 
