@@ -1,11 +1,12 @@
- CSS Document
+CSS Document
 *, *::after, *::before {
-  box-sizing:border-box;
+  box-sizing: border-box;
 }
 
 html {
     font-family: 'Ubuntu', sans-serif;
 }
+
 
 body {
     box-sizing: border-box;
@@ -18,14 +19,38 @@ body {
 header {
     background-color: #040074;
     border-top: 5px solid #FF6900;
-    padding:20px;
-    height:3em;
+/*    padding:20px;*/
+    height:10vh;
 }
 
 footer {
     color: #040074;
 }
 
+
+
+
+
+/*Logo*/
+img.logo {
+    width:5.5em;
+    height: 5em;
+    object-fit: contain;
+    padding:20px;
+}
+
+img#logotop {
+    width: 3.5em;
+    padding: 1em;
+    position: relative;
+    top:0.5em;
+}
+
+
+
+
+
+/*Header: logo+zoekbalk+menu*/
 div#zoekbalk {
     background-color: white;
     border-radius: 5em;
@@ -37,7 +62,7 @@ div#zoekbalk {
     margin-left: auto;
     margin-right: auto;
     position:relative;
-    top:-2em;
+    top:-2.7em;
 }
 
 a.nav {
@@ -53,51 +78,110 @@ img.navicoon {
     margin-right: 0.5em;
 }
 
-
-
 nav#menunav {
     background-color: #040074;
     padding: 0;
     margin:0;
 }
 
-ul.menulinks.open {
-    list-style:none;
-    justify-content: space-around;
+ul.menulinks {
+    border-top: 5px solid #FF6900;
     align-items: center;
     background-color: #040074;
     position:absolute;
-    width: 100%;
-    height: 100vh;
-    padding: 0;
+    width: 100vw;
+    height:60vh;
     margin:0;
+    opacity: 0;
+    padding-bottom: 1em;
+    border-radius: 0 0 2em 2em;
 }
 
-ul.menulinks {
-
-    display: none;
+ul.menulinks.open {
+    opacity: 1;
 }
 
 ul.menulinks li a {
-    color: white;
-    text-decoration: none;
-    font-size: 1em;
+    font-size: 1.1em;
 }
 
 li.menulink {
+    padding: 0.7em 0.7em 0.7em 4em;
+    color: white;
+}
 
-    padding: 1em 1em 1em 3em;
+li#menulink1 {
+    padding: 2em 1em 1em 2em;
+    color: white;
+}
 
+li.menulink2 {
+        padding: 2em 1em 1em 2em;
+}
+
+
+
+div#vierkant {
+    background-color: #FF6900;
+    width:10px;
+    height:10px;
+    display: inline-block;
+    margin-right:1em;
+    border-radius: 0.2em 0em 0.2em 0em;
+}
+
+div#vierkant1 {
+    background-color: yellow;
+    width:10px;
+    height:10px;
+    display: inline-block;
+    margin-right:1em;
+    border-radius: 0.2em 0em 0.2em 0em;
+}
+
+div#vierkant2 {
+    background-color: lightblue;
+    width:10px;
+    height:10px;
+    display: inline-block;
+    margin-right:1em;
+    border-radius: 0.2em 0em 0.2em 0em;
+}
+
+div#vierkant3 {
+    background-color: cadetblue;
+    width:10px;
+    height:10px;
+    display: inline-block;
+    margin-right:1em;
+    border-radius: 0.2em 0em 0.2em 0em;
+}
+
+section#menubalk {
+    padding: 20px 20px 0px 20px;
+}
+
+img#menuicoon {
+    width: 1.8em;
+}
+
+button {
+    border: none;
+    position: absolute;
+    top:2.7em;
+    right:1.5em;
+    background: none;
+}
+
+.menudiv {
+    width: 100%;
 }
 
 
 
 
 
-
-
-
-/*headers*/
+/*Headings*/
 
 h1 {
     color: #040074;
@@ -114,16 +198,17 @@ h2 {
     margin:0;
 }
 
-h2#kopjesfooter {
-    padding: 0em;
-    border-top: 1px solid grey;
-}
-
-
-h2#overknkv {
+#h2knkv {
     color:black;
     padding: 0;
+    margin-bottom: 1em;
 }
+
+/*
+h2.kopjecontact {
+    padding: 0;
+}
+*/
 
 h3 {
     font-size: 1.2em;
@@ -140,100 +225,11 @@ h5 {
 }
 
 
-a {
-    text-decoration: none;
-    color: white;
-}
-
-p {
-    margin: 0;
-}
-
-p.ganaar {
-    color:#040074;
-    font-size: 0.9em;
-    margin:0;
-    padding:20px 20px 0px 20px;
-}
-
-nav#kleinmenu {
-    padding:20px;
-}
-
-/*lijsten*/
-
-ul {
-    padding: 0;
-    margin:0;
-}
-
-ul#footertext {
-    display:grid;
-    grid-template-columns: 10em 10em;
-}
-
-ul.ulblauw {
-    padding:20px;
-}
-
-ul.logos {
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-}
-
-li {
-    list-style: none;
-    font-size: 0.9em;
-/*    align-items: center;*/
-}
-
-li.info {
-    background-color: #e4e6f2;
-    display: inline-block;
-    border: 1px solid lightgrey;
-    padding: 0.5em 0.8em;
-    margin-right: 1.2em;
-    margin-bottom: 1.2em;
-    font-size:0.9em;
-    color: #273373;
-}
-
-li.sponsor {
-}
-
-div.leesmeer {
-    background-color: #040074;
-    color:white;
-    border-radius: 0em 1em 0em 1em;
-    padding: 0.5em 1em 0.5em 1em;
-    margin-bottom: 1em;
-    margin-top:1em;
-}
-
-img.pijlrechts {
-    width:1em;
-    position: relative;
-    top:0.3em;
-    float:right;
-}
-
-img.blauwepijl {
-    width:1em;
-    padding-left:0.8em;
-}
-
-img.kleinepijl {
-    width:0.8em;
-    padding-left: 0.5em;
-}
 
 
-/*Sections*/
 
-
+/*Articles & sections*/
 section {
-/*    padding: 1.2em;*/
     padding-top:20px;
     padding-bottom:20px;
 }
@@ -242,47 +238,15 @@ section.grijs {
     background-color:#F2F2F8;
 }
 
-
-section.linkjesfooter {
-    background-color:#F2F2F8;
-    padding: 1em;
-    display: flex;
-    flex-wrap: wrap;
-
-}
-
-section.linkjessection {
-    width: 100%;
-    padding: 0;
-}
-
-section#info {
-    padding:20px;
-    grid-template-columns: 5em 5em 5em;
-}
-
 article {
     padding-top:2em;
     padding:20px;
 }
 
-section.articles {
+div.articles {
     padding: 0;
     display: flex;
     flex-wrap: wrap;
-}
-
-section#footer1 {
-    background-color: #040074;
-    color: white;
-    text-align: center;
-    padding:20px;
-}
-
-section#footer2 {
-    background-color: #FF6900;
-    text-align: center;
-    padding:20px;
 }
 
 section#overknkv {
@@ -291,15 +255,26 @@ section#overknkv {
     flex-wrap:wrap;
 }
 
-section#pad {
+div#pad {
     padding:20px 20px 0px 20px;
     position: relative;
     width:100%;
 }
 
+div#oranjevlak {
+    width:20em;
+    height: 8em;
+    background-color: #FF6900;
+    left:0;
+    position: absolute;
+    border-radius: 0em 5em 2em 0em;
+}
 
-/*Images*/
 
+
+
+
+/*Foto's*/
 .korfbalfoto1 {
     width:100%;
 /*    max-height: 10em;*/
@@ -324,54 +299,52 @@ img#korfbalfoto3 {
     object-fit: cover;
 }
 
-img.logo {
-    width:5.5em;
-    height: 5em;
-    object-fit: contain;
+img.socials {
+    width:2em;
+    height:2em;
+}
+
+
+
+
+
+/*Lijsten*/
+
+ul {
+    padding: 0;
+    margin:0;
+}
+
+ul#footertext {
+    display:grid;
+    grid-template-columns: 10em 10em;
+}
+
+ul.ulblauw {
     padding:20px;
 }
 
-img#logotop {
-    width: 3.2em;
+li {
+    list-style: none;
+    font-size: 0.9em;
 }
 
-
-img#menuicoon {
-    width:1.6em;
-    position: absolute;
-    top:1.8em;
-    right:1.3em;
-    align-items: center;
-}
-
-img.imgoranje {
-    width: 1.2em;
-}
-
-
-/*div's*/
-
-
-div.oranjebutton {
-    background-color: #FF6900;
-    text-align: center;
+li.info {
+    background-color: #e4e6f2;
+    display: inline-block;
+    border: 1px solid lightgrey;
     padding: 0.5em 0.8em;
-    width: 3em;
-    border-radius: 1em 0em;
+    margin-right: 1.2em;
+    margin-bottom: 1.2em;
+    font-size:0.9em;
+    color: #273373;
 }
 
-div#oranjevlak {
-    width:20em;
-    height: 8em;
-    background-color: #FF6900;
-    left:0;
-    position: absolute;
-    border-radius: 0em 5em 2em 0em;
-}
-
-/*blauwe knoppen*/
 
 
+
+
+/*Blauwe buttons*/
 img.button1 {
     width: 100%;
     border-top-left-radius: 5em;
@@ -461,6 +434,32 @@ a.blauweknop {
     width:5em;
 }
 
+
+
+
+
+/*Footer*/
+
+img.kleinepijl {
+    width:0.8em;
+    padding-left: 0.5em;
+}
+
+section#footer1 {
+    background-color: #040074;
+    color: white;
+    text-align: center;
+    padding:20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+section#footer2 {
+    background-color: #FF6900;
+    text-align: center;
+    padding:20px;
+}
+
 a#link {
     border-bottom: 0.5px solid white;
 }
@@ -470,12 +469,130 @@ img#logofooter {
     padding-bottom: 20px;
 }
 
+div.oranjebutton {
+    background-color: #FF6900;
+    text-align: center;
+    padding: 0.5em 0.8em;
+    width: 3em;
+    border-radius: 1em 0em;
+}
 
-/*extra opmaak pagina 2*/
+section.linkjesfooter {
+    background-color:#F2F2F8;
+    padding: 1em;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul.logos {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div#info1 {
+    width:100%;
+}
+
+div#info2 {
+    width:100%;
+}
+
+div.linkjessection {
+    width: 100%;
+    padding-bottom: 1em;
+    padding-top: 0;
+}
+
+div#info {
+    padding:0px 20px 20px 20px;
+}
+
+section#contact {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div#logofooter1 {
+    width:100%;
+}
+
+div#infofooter1 {
+    width: 100%;
+}
+
+section#contact {
+    border-top: 1px solid lightgrey;
+}
+
+
+
+
+
+
+/*Linkjes, knoppen & pijlen*/
+a {
+    text-decoration: none;
+    color: white;
+}
+
+p {
+    margin: 0;
+}
+
+p.ganaar {
+    color:#040074;
+    font-size: 0.9em;
+    margin:0;
+    padding:20px 20px 0px 20px;
+}
+
+nav#kleinmenu {
+    padding:20px;
+}
+
+div.leesmeer {
+    background-color: #040074;
+    color:white;
+    border-radius: 0em 1em 0em 1em;
+    padding: 0.5em 1em 0.5em 1em;
+    margin-bottom: 1em;
+    margin-top:1em;
+}
+
+img.pijlrechts {
+    width:1em;
+    position: relative;
+    top:0.3em;
+    float:right;
+}
+
+img.blauwepijl {
+    width:1em;
+    padding-left:0.8em;
+}
+
+img.blauwepijllinks {
+    width:1em;
+    padding-right:0.8em;
+    padding-left:20px;
+    margin-top:2em;
+}
+
+img.imgoranje {
+    width: 1.2em;
+}
+
+
+
+
+
+/*Extra opmaak pagina 2*/
 
 h2#pagina2 {
     color:black;
     font-size:1em;
+    padding-top: 1em;
 }
 
 p#leesmeer {
@@ -483,8 +600,24 @@ p#leesmeer {
     color:#040074;
 }
 
+a#terug {
+    color: #040074;
+    font-size:1em;
+}
 
-/*responsive */
+img#fotopagina2 {
+    width:100%;
+    border-radius:4em 0em 4em 0em;
+    object-fit: cover;
+    height:10em;
+}
+
+
+
+
+
+
+/*Responsive*/
 
 @media screen and (min-width:768px) {
 
@@ -525,7 +658,7 @@ p#leesmeer {
         margin-right: 2em;
     }
 
-    section.articles {
+    div.articles {
         flex-wrap: nowrap;
     }
 
@@ -533,17 +666,12 @@ p#leesmeer {
         flex-wrap: nowrap;
     }
 
-/*    section.linkjesfooter {flex-direction: row;}*/
-
-    section#pad {
+    div#pad {
         width:50%;
     }
 
     section.linkjesfooter {
         flex-wrap: nowrap;
-    }
-
-    section.linkjessection {
     }
 
     ul#footertext {
@@ -555,23 +683,39 @@ p#leesmeer {
         display:inline-block;
     }
 
-    div.blauw2 {
+    section#gerelateerd {
+        width:75%;
     }
 
-    section#gerelateerd {
+    section#contact {
+        flex-wrap:nowrap;
+    }
+
+    div#info1 {
+        width:50%;
+        border-right: 1px solid lightgrey;
+    }
+
+    div#info2 {
         width:50%;
     }
-
 }
+
+
+
 
 @media screen and (min-width:991px) {
 
     section#footer1 {
         text-align: left;
+        flex-wrap: nowrap;
+        position: relative;
+        right:0;
     }
 
     section#footer2 {
-      text-align: left;
+        text-align: left;
+        font-size: 0.7em;
     }
 
     img.korfbalfoto1 {
@@ -590,13 +734,35 @@ p#leesmeer {
         font-size: 2em;
     }
 
+    h2.kopjecontact {
+        font-size: 1.2em;
+    }
+
+    h3.subkopjesfooter
+
     h3 {
         font-size:1.5em;
     }
 
-    a.textbutton  {
-/*        font-size: 2em;*/
+    ul.menulinks {
+        height:50vh;
+        border-radius: 0em 0em 0em 8em;
+        flex-wrap: nowrap;
+        display: flex;
+        width:90vw;
     }
 
+    div.menudiv {
+    width: 25%;
+    }
+
+    div#infofooter1 {
+    text-align: right;
+    }
+
+    section#gerelateerd {
+        width:50%;
+    }
 
 }
+

@@ -6,7 +6,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. Elementen positioneren: https://www.learnit.nl/gratiscursus/html-en-css/9
+**1. Elementen positioneren**
+https://www.learnit.nl/gratiscursus/html-en-css/9
 
 **2. Grid**
 https://css-tricks.com/snippets/css/complete-guide-grid/
@@ -14,16 +15,25 @@ https://css-tricks.com/snippets/css/complete-guide-grid/
 **3. Javascript**
 https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/
 
+**4. Javascript menu**
+https://www.youtube.com/watch?v=H4MkGzoACpQ&feature=youtu.be
+
+
+
 ## Herkansing (week 8)
 
-**Wat heb ik verbeterd?**
+**Wat heb ik uitgewerkt?**
+Ik heb de homepagina uitgewerkt, en het artikel "Webinar voor trainers: technisch beleid in de praktijk". Door op de knop "lees meer" onder dat artikel te klikken kom je op die pagina terecht. Beide pagina's zijn responsive. Het menu bovenin is klikbaar. Dat is mijn micro-interactie gemaakt met wat code in javascript.
+
 
 **Dit ging goed:**
-
+Ondanks het feit dat ik opnieuw ben begonnen, ging het toch vlot. Het html document was snel verbetert. Ik heb ook meer om hulp gevraagd aan medestudenten, wat ik eigenlijk in eerste instantie niet had gedaan het afgelopen blok. Ik kon goed aan de slag met grid, en flex-box. Het responsive maken van de pagina ging ook makkelijker dan verwacht. Ik ben hard aan het werk gegaan en heb het zo volledig mogelijk afgerond.
 
 **Dit ging niet zo goed:**
 
-Ook merk ik dat de website die ik heb gekozen erg lastig is, vooral omdat ik zelf het erg lastig vind. Denk dat het daarom ook niet zo vlot ging.
+Ook merk ik dat de website die ik heb gekozen erg lastig is, vooral omdat ik zelf het erg lastig vind. Denk dat het daarom ook niet zo vlot ging. Het ging sneller dan eerst, maar ik had nog steeds moeite met wat onderdelen. Ik heb het daarom voor mezelf wat makkelijker gemaakt door sommige onderdelen weg te laten. Ik vond het lastig om te bepalen wanneer ik wel of niet een section of div moest toevoegen. Op de website zitten erg veel verschillende soorten onderdelen, die allemaal adnere opmaak nodig hebben. Uiteindelijk heb ik dus nog best veel gebruik gemaakt van sections, id's en sections. Al heb ik het geprobeerd zo weinig mogelijk te doen.
+
+**Screenshot(s):**
 
 
 
@@ -37,23 +47,35 @@ In de laatste paar daagjes van de vakantie heb ik veel kunnen maken, en ging het
 
 Ik ben nog niet klaar, omdat ik het te lang heb uitgesteld en het niet vlot gaat. Nu is het bijna af voor mobiel, maar het werkt ook nog niet responsive. Ook moet er nog een stukje javascript in verwerkt worden. Ik denk dat als ik alle pixels verander naar em's, dat ik het dan redelijk snel responsive moet kunnen maken. Ook merk ik dat de website die ik heb gekozen erg lastig is, vooral omdat ik zelf het erg lastig vind. Denk dat het daarom ook niet zo vlot ging.
 
+**Wat moet er vebetert worden?**
+
+- Opnieuw beginnen met het html bestand, en zorgen dat alle headings kloppen
+- Niet te veel classes gebruiken
+- Niet te veel sections gebruiken: sections bij bluebuttons weghalen
+- Alt tekst toevoegen aan de afbeeldingen
+- Header in de body
+- Bij de navsection een nav zetten
+- Maak een ul en li
+- Em & % gebruiken, niet px
+- Box-sizing: border-box;
+
 
 **Screenshot(s):**
 
 Homepagina KNKV
 
-<img src="images/eindresultaat1.png" width="100px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat2.png" width="100px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat3.png" width="100px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat4.png" width="100px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat5.png" width="100px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat6.png" width="100px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat7.png" width="100px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat8.png" width="100px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat9.png" width="100px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat10.png" width="100px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat11.png" width="100px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat12.png" width="100px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat1.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat2.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat3.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat4.png" wiwidth="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat5.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat6.png" width="375px"" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat7.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat8.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat9.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat10.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat11.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/eindresultaat12.png" width="375px" alt="Homepagina van de knkv website.">
 
 
 Artikel Kangoeroe Klub
