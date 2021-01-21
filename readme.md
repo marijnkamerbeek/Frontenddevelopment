@@ -77,34 +77,6 @@ Ik ben nog niet klaar, omdat ik het te lang heb uitgesteld en het niet vlot gaat
 - Em & % gebruiken, niet px
 - Box-sizing: border-box;
 
-
-**Screenshot(s):**
-
-- **Homepagina KNKV (mobiel)**
-
-<img src="images/eindresultaat1.png" width="375px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat2.png" width="375px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat3.png" width="375px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat4.png" wiwidth="375px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat5.png" width="375px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat6.png" width="375px"" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat7.png" width="375px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat8.png" width="375px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat9.png" width="375px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat10.png" width="375px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat11.png" width="375px" alt="Homepagina van de knkv website.">
-<img src="images/eindresultaat12.png" width="375px" alt="Homepagina van de knkv website.">
-
-
-- **Artikel Kangoeroe Klub (mobiel)**
-
-<img src="images/eindresultaat13.png" width="375px" alt="Artikel pagina op de knkv website.">
-<img src="images/eindresultaat14.png" width="375px" alt="Artikel pagina op de KNKV website.">
-<img src="images/eindresultaat15.png" width="375px" alt="Artikel pagina op de knkv website.">
-<img src="images/eindresultaat16.png" width="375px" alt="Artikel pagina op de knkv website.">
-
-
-
 ## Voortgang 3 (week 6)
 
 **Dit ging goed:**
