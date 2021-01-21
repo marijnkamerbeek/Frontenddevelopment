@@ -1,8 +1,5 @@
 # Procesverslag
-**Auteur:** Marijn
-
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
-
+**Auteur:** Marijn Kamerbeek - 500823229 - klas 203
 
 
 ## Bronnenlijst
@@ -23,10 +20,12 @@ https://www.youtube.com/watch?v=H4MkGzoACpQ&feature=youtu.be
 ## Herkansing (week 8)
 
 **Wat heb ik uitgewerkt?**
+
 Ik heb de homepagina uitgewerkt, en het artikel "Webinar voor trainers: technisch beleid in de praktijk". Door op de knop "lees meer" onder dat artikel te klikken kom je op die pagina terecht. Beide pagina's zijn responsive. Het menu bovenin is klikbaar. Dat is mijn micro-interactie gemaakt met wat code in javascript.
 
 
 **Dit ging goed:**
+
 Ondanks het feit dat ik opnieuw ben begonnen, ging het toch vlot. Het html document was snel verbetert. Ik heb ook meer om hulp gevraagd aan medestudenten, wat ik eigenlijk in eerste instantie niet had gedaan het afgelopen blok. Ik kon goed aan de slag met grid, en flex-box. Het responsive maken van de pagina ging ook makkelijker dan verwacht. Ik ben hard aan het werk gegaan en heb het zo volledig mogelijk afgerond.
 
 **Dit ging niet zo goed:**
@@ -35,7 +34,26 @@ Ook merk ik dat de website die ik heb gekozen erg lastig is, vooral omdat ik zel
 
 **Screenshot(s):**
 
+- **Homepagina KNKV**
 
+<img src="images/herkansing_home1.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/herkansing_home2.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/herkansing_home3.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/herkansing_home4.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/herkansing_home5.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/herkansing_home6.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/herkansing_home7.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/herkansing_home8.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/herkansing_home9.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/herkansing_home10.png" width="375px" alt="Homepagina van de knkv website.">
+<img src="images/herkansing_home11.png" width="375px" alt="Homepagina van de knkv website.">
+
+- **Artikel actviteit:** Webinar voor trainers: technisch beleid in de praktijk
+
+<img src="images/herkansing_artikel1.png" width="375px" alt="Artikel activiteit: webinar voor trainers: technisch beleid in de praktijk.">
+<img src="images/herkansing_artikel2.png" width="375px" alt="Artikel activiteit: webinar voor trainers: technisch beleid in de praktijk.">
+<img src="images/herkansing_artikel3.png" width="375px" alt="Artikel activiteit: webinar voor trainers: technisch beleid in de praktijk.">
+<img src="images/herkansing_artikel4.png" width="375px" alt="Artikel activiteit: webinar voor trainers: technisch beleid in de praktijk.">
 
 ## Eindgesprek (week 7)
 
@@ -62,7 +80,7 @@ Ik ben nog niet klaar, omdat ik het te lang heb uitgesteld en het niet vlot gaat
 
 **Screenshot(s):**
 
-Homepagina KNKV
+- **Homepagina KNKV (mobiel)**
 
 <img src="images/eindresultaat1.png" width="375px" alt="Homepagina van de knkv website.">
 <img src="images/eindresultaat2.png" width="375px" alt="Homepagina van de knkv website.">
@@ -78,7 +96,7 @@ Homepagina KNKV
 <img src="images/eindresultaat12.png" width="375px" alt="Homepagina van de knkv website.">
 
 
-Artikel Kangoeroe Klub
+- **Artikel Kangoeroe Klub (mobiel)**
 
 <img src="images/eindresultaat13.png" width="375px" alt="Artikel pagina op de knkv website.">
 <img src="images/eindresultaat14.png" width="375px" alt="Artikel pagina op de KNKV website.">
