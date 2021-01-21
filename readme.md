@@ -26,11 +26,11 @@ Ik heb de homepagina uitgewerkt, en het artikel "Webinar voor trainers: technisc
 
 **Dit ging goed:**
 
-Ondanks het feit dat ik opnieuw ben begonnen, ging het toch vlot. Het html document was snel verbetert. Ik heb ook meer om hulp gevraagd aan medestudenten, wat ik eigenlijk in eerste instantie niet had gedaan het afgelopen blok. Ik kon goed aan de slag met grid, en flex-box. Het responsive maken van de pagina ging ook makkelijker dan verwacht. Ik ben hard aan het werk gegaan en heb het zo volledig mogelijk afgerond.
+Ondanks het feit dat ik opnieuw ben begonnen, ging het toch vlot. Het html document was snel verbeterd. Ik heb ook meer om hulp gevraagd aan medestudenten, wat ik eigenlijk in eerste instantie niet had gedaan het afgelopen blok. Ik kon goed aan de slag met grid, en flex-box. Het responsive maken van de pagina ging ook makkelijker dan verwacht. Ik ben hard aan het werk gegaan en heb geprobeerd het zo volledig mogelijk te maken.
 
 **Dit ging niet zo goed:**
 
-Ook merk ik dat de website die ik heb gekozen erg lastig is, vooral omdat ik zelf het erg lastig vind. Denk dat het daarom ook niet zo vlot ging. Het ging sneller dan eerst, maar ik had nog steeds moeite met wat onderdelen. Ik heb het daarom voor mezelf wat makkelijker gemaakt door sommige onderdelen weg te laten. Ik vond het lastig om te bepalen wanneer ik wel of niet een section of div moest toevoegen. Op de website zitten erg veel verschillende soorten onderdelen, die allemaal andere opmaak nodig hebben.
+Ook merk ik dat de website die ik heb gekozen erg lastig is, vooral omdat ik zelf het erg lastig vind. Denk dat het daarom ook niet zo vlot ging. Het ging sneller dan eerst, maar ik had nog steeds moeite met wat onderdelen. De header van de home pagina pagina heb ik hetzelfde gemaakt als op alle andere pagina's. Ook zitten er andere kleine onderdelen niet bij, door gebrek aan tijd omdatb ik opnieuw begonnen was. Daarnaast vond het lastig om te bepalen wanneer ik wel of niet een section of div moest toevoegen. Op de website zitten erg veel verschillende soorten onderdelen, die allemaal andere opmaak nodig hebben.
 
 **Screenshot(s):**
 
@@ -55,6 +55,7 @@ Ook merk ik dat de website die ik heb gekozen erg lastig is, vooral omdat ik zel
 <img src="images/herkansing_artikel3.png" width="375px" alt="Artikel activiteit: webinar voor trainers: technisch beleid in de praktijk.">
 <img src="images/herkansing_artikel4.png" width="375px" alt="Artikel activiteit: webinar voor trainers: technisch beleid in de praktijk.">
 
+
 ## Eindgesprek (week 7)
 
 **Dit ging goed:**
@@ -63,7 +64,7 @@ In de laatste paar daagjes van de vakantie heb ik veel kunnen maken, en ging het
 
 **Dit ging niet zo goed:**
 
-Ik ben nog niet klaar, omdat ik het te lang heb uitgesteld en het niet vlot gaat. Nu is het bijna af voor mobiel, maar het werkt ook nog niet responsive. Ook moet er nog een stukje javascript in verwerkt worden. Ik denk dat als ik alle pixels verander naar em's, dat ik het dan redelijk snel responsive moet kunnen maken. Ook merk ik dat de website die ik heb gekozen erg lastig is, vooral omdat ik zelf het erg lastig vind. Denk dat het daarom ook niet zo vlot ging.
+Ik ben nog niet klaar, omdat ik het lastig vind en het daarom niet zo vlot gaat. Nu is het bijna af voor mobiel, maar het werkt ook nog niet responsive. Ook moet er nog een stukje Javascript in verwerkt worden. Ik denk dat als ik alle pixels verander naar em's, dat ik het dan redelijk snel responsive moet kunnen maken. Ook merk ik dat de website die ik heb gekozen erg lastig is. Dat zorgt ervoor dat ik met elk klein onderdeel erg lang bezig ben.
 
 **Wat moet er vebetert worden?**
 
@@ -76,6 +77,7 @@ Ik ben nog niet klaar, omdat ik het te lang heb uitgesteld en het niet vlot gaat
 - Maak een ul en li
 - Em & % gebruiken, niet px
 - Box-sizing: border-box;
+
 
 ## Voortgang 3 (week 6)
 
